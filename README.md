@@ -145,7 +145,3 @@ Vercel will automatically detect the `api/index.ts` file and deploy it as a serv
 ## Contributing
 
 Feel free to fork this repository, open issues, or submit pull requests.
-
-## License
-
-[MIT License](LICENSE) - *You might want to create a LICENSE file if you don't have one.*
