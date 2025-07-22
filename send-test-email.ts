@@ -25,8 +25,8 @@ async function sendTestEmail() {
   const providerName = selectedProvider;
 
   const message = {
-    to: "vixhnuchandran@gmail.com",
-    from: "noreply@example.com", // Generic from address
+    to: "reciever@email.com",
+    from: "noreply@example.com",
     subject: `Test Email from Serverless API (${providerName})`,
     text: `This is a test email sent from the serverless email service using ${providerName}.`,
     html: `<strong>This is a test email sent from the serverless email service using ${providerName}.</strong>`,
